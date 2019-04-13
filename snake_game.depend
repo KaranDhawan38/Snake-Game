@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538199911 source:d:\code blocks files\apc\snake_game\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1535471451 source:d:\code blocks files\apc\snake_game\asd.c
+	<stdio.h>
+	<conio.h>
+
